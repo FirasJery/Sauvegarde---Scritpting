@@ -66,7 +66,9 @@ renameTar(){
 }
 
 version(){
-  echo "Projet Shell - Khalil Khemiri - version 0.1"
+  echo "Projet Shell - Khalil Khemiri - Firas ElJary"
+  echo "version 0.1"
+  echo "https://github.com/FirasJery/Sauvegarde---Scritpting.git"
 }
 
 echo "Memes"
